@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocio\Negocio.csproj", "{DD29C9DB-2D68-4B14-BD9F-BFA0F4A5929C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicoChatApp", "ServicoChat\ServicoChatApp.csproj", "{543790FF-98DB-43BE-A2F1-1C351D66E6E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD29C9DB-2D68-4B14-BD9F-BFA0F4A5929C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD29C9DB-2D68-4B14-BD9F-BFA0F4A5929C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD29C9DB-2D68-4B14-BD9F-BFA0F4A5929C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DD29C9DB-2D68-4B14-BD9F-BFA0F4A5929C}.Debug|x86.Build.0 = Debug|Any CPU
+		{DD29C9DB-2D68-4B14-BD9F-BFA0F4A5929C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD29C9DB-2D68-4B14-BD9F-BFA0F4A5929C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD29C9DB-2D68-4B14-BD9F-BFA0F4A5929C}.Release|x86.ActiveCfg = Release|Any CPU
+		{DD29C9DB-2D68-4B14-BD9F-BFA0F4A5929C}.Release|x86.Build.0 = Release|Any CPU
+		{543790FF-98DB-43BE-A2F1-1C351D66E6E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{543790FF-98DB-43BE-A2F1-1C351D66E6E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{543790FF-98DB-43BE-A2F1-1C351D66E6E8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{543790FF-98DB-43BE-A2F1-1C351D66E6E8}.Debug|x86.Build.0 = Debug|Any CPU
+		{543790FF-98DB-43BE-A2F1-1C351D66E6E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{543790FF-98DB-43BE-A2F1-1C351D66E6E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{543790FF-98DB-43BE-A2F1-1C351D66E6E8}.Release|x86.ActiveCfg = Release|Any CPU
+		{543790FF-98DB-43BE-A2F1-1C351D66E6E8}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
